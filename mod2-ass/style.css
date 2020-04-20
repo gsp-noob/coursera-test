@@ -18,6 +18,9 @@ div{font-family: "Comic Sans MS", cursive, sans-serif;}
 	float: right;
 	width: 30%;
 	padding: 2px;
+	font-weight: bold;
+
+	font-size: 125%;
 }
 #d2{
 	background: #ff0000;
@@ -25,6 +28,11 @@ div{font-family: "Comic Sans MS", cursive, sans-serif;}
 	float: right;
 	width: 30%;
 	padding: 2px;
+	color: #ffffff;
+	font-weight: bold;
+
+	font-size: 125%;
+
 }
 #d3{
 	background: #FFFF33;
@@ -32,8 +40,11 @@ div{font-family: "Comic Sans MS", cursive, sans-serif;}
 	float: right;
 	width: 30%;
 	padding: 2px;
+	font-weight: bold;
+
+	font-size: 125%;
 }
-p{background: #808080;padding: 25px; margin: 0}
+p{background: #808080;padding: 35px; margin: 0}
 @media (min-width: 992px){
    .pc {
    	float: left;
